@@ -1,5 +1,11 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Organization</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a target="_blank" href="https://www.siam.org/conferences-events/past-event-archive/cse25/#"><autocolor>SIAM CSE25</autocolor></a></li> Minisymposium of numerical advancements on optimal control and games.
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
