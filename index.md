@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> at Brown University. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>Optimix</autocolor></a>.
+I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> at Brown University. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>TROPICAL</autocolor></a> Team.
 
 
 ## Research Interests
