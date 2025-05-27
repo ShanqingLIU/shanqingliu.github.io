@@ -25,13 +25,14 @@ submitted:
 
 accepted:
 
-  - title: "A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics"
-    authors: Zhen Zhang, Chenye Wang, Shanqing Liu, Jerome Darbon, George Karniadakis
-    conference: SIAM Journal on Scientific computing
-    arxiv: https://arxiv.org/abs/2408.03785
 
 
 published:
+
+  - title: "A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics"
+    authors: Zhen Zhang, Chenye Wang, Shanqing Liu, Jerome Darbon, George Karniadakis
+    conference: To appear SIAM Journal on Scientific computing
+    arxiv: https://arxiv.org/abs/2408.03785
 
   - title: "Safe Physics-Informed Machine Learning for Optimal Predefined-Time Stabilization: A Lyapunov-based Approach"
     authors: Nick-Marios T. Kokolakis, Zhen Zhang, Shanqing LIU, Kyriakos G. Vamvoudakis, Jerome Darbon, and George Karniadakis
