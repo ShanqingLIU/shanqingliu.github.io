@@ -17,11 +17,12 @@ More recently, my interests have shifted toward the interplay between control, o
 
 ## Bio
 
-* **Ph.D.** in Computer Science, École Polytechnique, 2023
+* **Ph.D.** in Applied Mathematics, École Polytechnique, 2023
 * **M.S.** in Mathematics, Optimization track,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
-* **B.S.** in Machine Intelligence, Peking University, 2018
+* **M.S.** in Mathematics, Operation Research track,  Université Paris-1 Panthéon-Sorbonne, 2019
+* **B.S.** in Automation, Shanghai Jiao Tong University, 2018
 
-Full CV: <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
+
 
 {% include_relative _includes/publications.md %}
 
