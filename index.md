@@ -9,7 +9,11 @@ I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.
 
 ## Research Interests
 
-I study mixed integer linear and nonlinear programming, with a special interest in decomposition and cutting plane methods. My primary research goal is to develop and implement efficient algorithms for optimization software systems (notably the <a target="_blank" href="https://www.scipopt.org/"><autocolor>SCIP solver</autocolor></a>), and I mostly use C++ and Julia. My research codes are usually publicly available on my <a target="_blank" href="https://github.com/lidingxu?tab=repositories"><autocolor>github repositories</autocolor></a>.
+I study optimal control and optimization, with a special interest in the Dynamic Programming Principle based approach and Hamilton-Jacobi-Bellman (HJB) equations. 
+I developed numerical schemes to mitigate the curse-of-dimensionality (CoD) in this approach. 
+I also worked on boradly numerical optimal control and optimizations, and efficient numerical solvers for PDEs with a motivation from the optimization point of view. 
+More recently, I am particular interested in the interactions between control, optimization and problems arising from scientific machine learning. 
+
 
 ## Bio
 
