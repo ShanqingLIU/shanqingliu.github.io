@@ -22,7 +22,7 @@ More recently, my interests have shifted toward the interplay between control, o
 * **Ph.D.** in Applied Mathematics, École Polytechnique, 2023
 * **M.S.** in Mathematics, Optimization track,  Université Paris-Saclay, 2020
 * **M.S.** in Mathematics, Operation Research track,  Université Paris-1 Panthéon-Sorbonne, 2019
-* **B.S.** in Automation, Shanghai Jiao Tong University, 2018
+* **B.S.** in Automation, Shanghai Jiao Tong University, 2017
 
 
 
