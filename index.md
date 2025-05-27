@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc researcher in <a target="_blank" href="https://iol.zib.de/"><autocolor>IOL</autocolor></a> group at Zuse-Institut Berlin. I got my Ph.D. at Laboratoire d'informatique de l'École Polytechnique (LIX), where I was part of <a target="_blank" href="https://www.lix.polytechnique.fr/optimix/"><autocolor>Optimix</autocolor></a>.
+I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>IOL</autocolor></a> Division of Applied Mathematics at Brown University. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>Optimix</autocolor></a>.
 
 
 ## Research Interests
