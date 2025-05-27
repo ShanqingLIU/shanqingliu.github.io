@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Starting from Feb. 2024, I am a Post-doc Research Associate at <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> , Brown University, where I am part of <a target="_blank" href="https://sites.brown.edu/crunch-group/"><autocolor>CRUNCHL</autocolor></a> group. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>TROPICAL</autocolor></a> Team.
+Starting from Feb. 2024, I am a Post-doc Research Associate at <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> , Brown University, where I am part of <a target="_blank" href="https://sites.brown.edu/crunch-group/"><autocolor>CRUNCHL</autocolor></a> group. I got my Ph.D. at <a target="_blank" href="https://cmap.ip-paris.fr/"><autocolor>Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP)</autocolor></a>, where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>TROPICAL</autocolor></a> Team.
 
 
 ## Research Interests
 
 I study optimal control and optimization, with a focus on the Dynamic Programming Principle and the Hamilton-Jacobi-Bellman (HJB) equations. 
-My research includes the development of numerical schemes aimed at mitigating the curse of dimensionality in this approach. 
+My research includes the development of numerical schemes aimed at mitigating the curse of dimensionality. 
 
 I have also worked broadly on numerical methods for optimal control and optimization, as well as on the design of efficient numerical solvers for partial differential equations (PDEs), motivated by optimization perspectives.
 
