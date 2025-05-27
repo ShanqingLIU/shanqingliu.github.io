@@ -9,10 +9,10 @@ I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.
 
 ## Research Interests
 
-I study optimal control and optimization, with a special interest in the Dynamic Programming Principle based approach and Hamilton-Jacobi-Bellman (HJB) equations. 
-I developed numerical schemes to mitigate the curse-of-dimensionality (CoD) in this approach. 
-I also worked on boradly numerical optimal control and optimizations, and efficient numerical solvers for PDEs with a motivation from the optimization point of view. 
-More recently, I am particular interested in the interactions between control, optimization and problems arising from scientific machine learning. 
+I study optimal control and optimization, with a particular focus on the Dynamic Programming Principle and the associated Hamilton-Jacobi-Bellman (HJB) equations. 
+My research includes the development of numerical schemes aimed at mitigating the curse of dimensionality inherent in this approach. 
+I have also worked broadly on numerical methods for optimal control and optimization, as well as on the design of efficient numerical solvers for partial differential equations (PDEs), motivated by optimization perspectives.
+More recently, my interests have shifted toward the interplay between control, optimization, and challenges in scientific machine learning.
 
 
 ## Bio
