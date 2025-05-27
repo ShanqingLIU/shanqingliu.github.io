@@ -34,24 +34,24 @@ accepted:
 published:
 
   - title: "Safe Physics-Informed Machine Learning for Optimal Predefined-Time Stabilization: A Lyapunov-based Approach"
-    authors: Nick-Marios T. KokolakisNick-Marios T. Kokolakis, Zhen Zhang, Shanqing LIU, Kyriakos G. Vamvoudakis, Jerome Darbon, and George Karniadakis
+    authors: Nick-Marios T. Kokolakis, Zhen Zhang, Shanqing LIU, Kyriakos G. Vamvoudakis, Jerome Darbon, and George Karniadakis
     conference: IEEE Transactions on Neural Networks and Learning Systems
     doi: https://ieeexplore.ieee.org/document/11015338
 
   - title: "A Multilevel Fast Marching Method for the Minimum Time Problem"
-    authors: Marianne Akian, Stéphane Gaubert, Shanqing Liu
+    authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: SIAM Journal on Control and Optimization
     arxiv: https://arxiv.org/abs/2303.10705
     doi: https://epubs.siam.org/doi/full/10.1137/23M1563657
 
   - title: "An adaptive multi-level max-plus method for deterministic optimal control problems"
-    authors: Marianne Akian, Stéphane Gaubert, Shanqing Liu
+    authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: IFAC-PapersOnLine
     arxiv: https://arxiv.org/abs/2304.10342
     doi: https://www.sciencedirect.com/science/article/pii/S2405896323009990
 
   - title: "A multilevel fast-marching method"
-    authors: Antoine Oustry and <strong>Liding Xu</strong>, Sonia Haddad-Vanier,  Juan-Antonio Cordero and Thomas Clausen
+    authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: MTNS 2022-25th International Symposium on Mathematical Theory of Networks and Systems
     hal: https://inria.hal.science/hal-03944192 
 
