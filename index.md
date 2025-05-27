@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Starting from Feb. 2024, I am a postdoc researcher in <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> at Brown University. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>TROPICAL</autocolor></a> Team.
+Starting from Feb. 2024, I am a Post-doc Research Associate at <a target="_blank" href="https://appliedmath.brown.edu/"><autocolor>Division of Applied Mathematics</autocolor></a> , Brown University, where I am part of <a target="_blank" href="https://sites.brown.edu/crunch-group/"><autocolor>CRUNCHL</autocolor></a> group. I got my Ph.D. at Centre de Mathématiques Appliquées de l'Ecole Polytechnique (CMAP), where I was part of <a target="_blank" href="https://team.inria.fr/tropical/"><autocolor>TROPICAL</autocolor></a> Team.
 
 
 ## Research Interests
