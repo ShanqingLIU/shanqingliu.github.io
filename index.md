@@ -28,7 +28,6 @@ More recently, my interests have shifted toward the interplay between control, o
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/teaching.md %}
 
