@@ -6,17 +6,17 @@ email: shanqing_liu[at]brown[dot]edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: liding xu, research, academic page, optimization
-description: This is the academic personal homepage of liding xu.
-canonical: https://lidingxu.github.io
+keywords: Shanqing Liu, research, academic page, optimal control,
+description: This is the academic personal homepage of Shanqing Liu.
+canonical: https://shanqingliu.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=g_XH1rUAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=8bAHuDEAAAAJ&hl=en
 #cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/lidingxu
-orcid: https://orcid.org/0000-0002-0286-1109
-affiliation_link: https://iol.zib.de/
+github_link: https://github.com/shanqingliu
+orcid: https://orcid.org/0000-0001-5104-2591
+affiliation_link: https://appliedmath.brown.edu/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
