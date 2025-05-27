@@ -60,10 +60,10 @@ published:
 
 phdthesis:
 
-  - title: "Relaxation methods for mixed-integer nonlinear programming"
-    authors: Supervised by Leo Liberti (director of thesis), Claudia D’Ambrosio (co-director), Sonia Haddad-Vanier (co-supervision)
-    location: LIX, École Polytechnique
-    hal: https://theses.hal.science/tel-04461935
-    link: https://www.theses.fr/2023IPPAX150
+  - title: "Highway hierarchies for Hamilton-Jacobi-Bellman (HJB) PDEs"
+    authors: Supervised by Marianne Akian (co-director of thesis) and Stéphane Gaubert (co-director of thesis)
+    location: CMAP, École Polytechnique
+    hal: https://theses.hal.science/tel-04931347
+    link: https://theses.fr/2023IPPAX107
 
 
