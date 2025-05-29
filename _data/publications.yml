@@ -1,5 +1,10 @@
 submitted:
 
+
+  - title: "Fast Meta-solvers for 3D Complex-shape Scatterers Using Neural Operators Trained on a Non-scattering Problem"
+    authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadakis
+    arxiv: https://arxiv.org/abs/2405.12380
+
   - title: "Automatic Selection of the Best Neural Architecture for Time Series Forecasting via Multi-objective Optimization and Pareto Optimality Conditions"
     authors: Qianying Cao, Shanqing Liu, Alan John Varghese, Jerome Darbon, Michael Triantafyllou, George Em Karniadakis
     arxiv: https://arxiv.org/abs/2501.12215
