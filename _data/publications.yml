@@ -1,10 +1,10 @@
 submitted:
 
-  - title: "Automatic selection of the best neural architecture for time series forecasting via multi-objective optimization and Pareto optimality conditions"
+  - title: "Automatic Selection of the Best Neural Architecture for Time Series Forecasting via Multi-objective Optimization and Pareto Optimality Conditions"
     authors: Qianying Cao, Shanqing Liu, Alan John Varghese, Jerome Darbon, Michael Triantafyllou, George Em Karniadakis
     arxiv: https://arxiv.org/abs/2501.12215
 
-  - title: "Automatic discovery of optimal meta-solvers via multi-objective optimization"
+  - title: "Automatic Discovery of Optimal Meta-solvers via Multi-objective Optimization"
     authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
     arxiv: https://arxiv.org/abs/2412.00063
 
@@ -17,7 +17,7 @@ accepted:
 
 published:
 
-  - title: "A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics"
+  - title: "A time-dependent Symplectic Network for Non-convex Path Planning Problems with Linear and Nonlinear Dynamics"
     authors: Zhen Zhang, Chenye Wang, Shanqing Liu, Jerome Darbon, George Karniadakis
     conference: To appear SIAM Journal on Scientific computing
     arxiv: https://arxiv.org/abs/2408.03785
@@ -33,13 +33,13 @@ published:
     arxiv: https://arxiv.org/abs/2303.10705
     doi: https://epubs.siam.org/doi/full/10.1137/23M1563657
 
-  - title: "An adaptive multi-level max-plus method for deterministic optimal control problems"
+  - title: "An Adaptive Multi-level Max-plus Method for Deterministic Optimal Control Problems"
     authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: IFAC-PapersOnLine
     arxiv: https://arxiv.org/abs/2304.10342
     doi: https://www.sciencedirect.com/science/article/pii/S2405896323009990
 
-  - title: "A multilevel fast-marching method"
+  - title: "A Multilevel Fast-marching Method"
     authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: MTNS 2022-25th International Symposium on Mathematical Theory of Networks and Systems
     hal: https://inria.hal.science/hal-03944192 
