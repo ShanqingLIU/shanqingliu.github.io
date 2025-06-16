@@ -12,7 +12,7 @@ Starting from Feb. 2024, I am a Post-doc Research Associate at <a target="_blank
 I study optimal control and optimization in my Ph.D., with a focus on the Dynamic Programming Principle and the Hamilton-Jacobi-Bellman (HJB) equations. 
 My research involves developing numerical schemes to address the curse of dimensionality. 
 
-I have also worked broadly on numerical methods for optimal control and optimization, as well as on the design of efficient numerical solvers  partial differential equations (PDEs). 
+I have also worked broadly on numerical methods for optimal control and optimization, as well as on the design of efficient numerical solvers for partial differential equations (PDEs). 
 
 More recently, my interests have shifted toward the intersection of optimization and challenges in scientific machine learning. 
 
