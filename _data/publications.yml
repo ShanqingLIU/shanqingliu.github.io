@@ -1,5 +1,8 @@
 submitted:
 
+  - title: "Automatic discovery of optimal meta-solvers for time-dependent nonlinear PDEs"
+    authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
+    arxiv: https://arxiv.org/abs/2507.00278
 
   - title: "Fast Meta-solvers for 3D Complex-shape Scatterers Using Neural Operators Trained on a Non-scattering Problem"
     authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadakis
