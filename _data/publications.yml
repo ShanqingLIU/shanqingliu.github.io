@@ -1,5 +1,13 @@
 submitted:
 
+  - title: "Adversarial Physics-Informed Machine Learning for Robust Optimal Safe Predefined-Time Stabilization: A Game-Theoretic Approach"
+    authors: Nick-Marios T Kokolakis, Shanqing Liu, Jerome Darbon, Rahul Mangharam, George Em Karniadakis
+    arxiv: https://arxiv.org/pdf/2511.15018
+    
+  - title: "A Neural-Operator Preconditioned Newton Method for Accelerated Nonlinear Solvers"
+    authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
+    arxiv: https://arxiv.org/pdf/2511.08811
+
   - title: "Automatic discovery of optimal meta-solvers for time-dependent nonlinear PDEs"
     authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
     arxiv: https://arxiv.org/abs/2507.00278
