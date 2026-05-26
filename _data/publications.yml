@@ -78,10 +78,12 @@ conference_proceedings:
     
   - title: "Pinns in Pde Constrained Optimal Control Problems: Direct vs Indirect Methods"
     authors: Zhen Zhang, Shanqing Liu, Alessandro Alla, Jerome Darbon, George Em Karniadakis
+    conference: submitted
     arxiv: https://arxiv.org/pdf/2604.04920
 
   - title: "Tropical Low-rank Approximation and Application to Optimal Control of N-body systems"
     authors: Marianne Akian, Stephane Gaubert, Shanqing Liu, Yang Qi
+    conference: submitted
     arxiv: https://arxiv.org/pdf/2604.18785
 
 
