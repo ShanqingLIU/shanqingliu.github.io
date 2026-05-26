@@ -1,5 +1,13 @@
 submitted:
 
+  - title: "A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems" 
+    authors: Alan John Varghese, Shanqing Liu, Paula Chen, Yaochen Zhu, Jerome Darbon, George Em Karniadakis
+    arxiv: https://arxiv.org/abs/2605.14332
+    
+  - title: "Algorithms and Differential Game Representations for Exploring Nonconvex Pareto Fronts in High Dimensions" 
+    authors: Shanqing Liu, Paula Chen, Youngkyu Lee, Jerome Darbon
+    arxiv: https://arxiv.org/abs/2602.11515
+
   - title: "Adversarial Physics-Informed Machine Learning for Robust Optimal Safe Predefined-Time Stabilization: A Game-Theoretic Approach"
     authors: Nick-Marios T Kokolakis, Shanqing Liu, Jerome Darbon, Rahul Mangharam, George Em Karniadakis
     arxiv: https://arxiv.org/pdf/2511.15018
