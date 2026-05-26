@@ -2,37 +2,37 @@
 
 <div class="publications">
 
-{% if site.data.publications.submitted.size > 0 %}
+<h3 id="journal">Journal</h3>
 
-<h3 id="publications">Submitted</h3>
+{% if site.data.publications.journal_submitted.size > 0 %}
+
+<h4 id="journal-submitted">Submitted</h4>
 
 <ol class="bibliography">
 
-
-{% for link in site.data.publications.submitted %}
+{% for link in site.data.publications.journal_submitted %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+      <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
       {% if link.doi %}
-      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
       {% endif %}
       {% if link.pdf %}
-      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.arxiv %}
-      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Arxiv</a>
       {% endif %}
       {% if link.hal %}
-      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">HAL</a>
       {% endif %}
       {% if link.code %}
-      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.others %}
       {{ link.others }}
@@ -51,33 +51,35 @@
 {% endif %}
 
 
-{% if site.data.publications.accepted.size > 0 %}
+{% if site.data.publications.journal_published.size > 0 %}
 
-<h3 id="publications">Accepted</h3>
+<h4 id="journal-published">Published</h4>
 
 <ol class="bibliography">
 
-{% for link in site.data.publications.accepted %}
+{% for link in site.data.publications.journal_published %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+      <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
       {% if link.doi %}
-      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
+      {% endif %}
+      {% if link.pdf %}
+      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.arxiv %}
-      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Arxiv</a>
       {% endif %}
       {% if link.hal %}
-      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">HAL</a>
       {% endif %}
       {% if link.code %}
-      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.others %}
       {{ link.others }}
@@ -95,32 +97,36 @@
 
 {% endif %}
 
-<h3 id="publications">Published</h3>
+
+{% if site.data.publications.conference_proceedings.size > 0 %}
+
+<h3 id="conference-proceedings">Proceedings of Conference</h3>
 
 <ol class="bibliography">
 
-
-{% for link in site.data.publications.published %}
+{% for link in site.data.publications.conference_proceedings %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+      <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
       {% if link.doi %}
-      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
+      {% endif %}
+      {% if link.pdf %}
+      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.arxiv %}
-      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Arxiv</a>
       {% endif %}
       {% if link.hal %}
-      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">HAL</a>
       {% endif %}
       {% if link.code %}
-      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.others %}
       {{ link.others }}
@@ -136,9 +142,10 @@
 
 </ol>
 
+{% endif %}
 
 
-<h3 id="publications">Ph.D. thesis</h3>
+<h3 id="phd-thesis">Ph.D. thesis</h3>
 
 <ol class="bibliography">
 
@@ -152,10 +159,10 @@
       <div class="periodical"><i>{{ link.location }}</i></div>
     <div class="links">
       {% if link.link %}
-      <a target="_blank" href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">THESES.FR</a>
+      <a target="_blank" href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">THESES.FR</a>
       {% endif %}
       {% if link.hal %}
-      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">HAL</a>
       {% endif %}
       {% if link.others %}
       {{ link.others }}
