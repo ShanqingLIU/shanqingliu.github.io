@@ -2,22 +2,22 @@
 
 <div class="publications">
 
-<h3 id="journal">Journal</h3>
+{% if site.data.publications.preprint.size > 0 %}
 
-{% if site.data.publications.journal_submitted.size > 0 %}
-
-<h4 id="journal-submitted">Submitted</h4>
+<h3 id="preprint">Preprint</h3>
 
 <ol class="bibliography">
 
-{% for link in site.data.publications.journal_submitted %}
+{% for link in site.data.publications.preprint %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
+      <div class="title">[p{{ forloop.index }}] {{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
+      {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em></div>
+      {% endif %}
     <div class="links">
       {% if link.doi %}
       <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
@@ -53,7 +53,7 @@
 
 {% if site.data.publications.journal_published.size > 0 %}
 
-<h4 id="journal-published">Published</h4>
+<h3 id="journal">Journal</h3>
 
 <ol class="bibliography">
 
@@ -62,9 +62,11 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
+      <div class="title">[j{{ forloop.index }}] {{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
+      {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em></div>
+      {% endif %}
     <div class="links">
       {% if link.doi %}
       <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
@@ -109,9 +111,11 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
+      <div class="title">[c{{ forloop.index }}] {{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
+      {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em></div>
+      {% endif %}
     <div class="links">
       {% if link.doi %}
       <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">DOI</a>
@@ -144,6 +148,8 @@
 
 {% endif %}
 
+
+{% if site.data.publications.phdthesis.size > 0 %}
 
 <h3 id="phd-thesis">Ph.D. thesis</h3>
 
@@ -178,6 +184,6 @@
 
 </ol>
 
+{% endif %}
+
 </div>
-
-
