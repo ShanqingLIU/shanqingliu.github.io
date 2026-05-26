@@ -26,11 +26,13 @@ published:
     authors: Qianying Cao, Shanqing Liu, Alan John Varghese, Jerome Darbon, Michael Triantafyllou, George Em Karniadakis 
     conference: To appear: Nature Communications
     arxiv: https://arxiv.org/abs/2501.12215
+    doi: 
 
   - title: "Automatic discovery of optimal meta-solvers for time-dependent nonlinear PDEs"
     authors: Youngkyu Lee, Shanqing Liu, Jerome Darbon, George Em Karniadakis
     conference: To appear: Journal of Computational Physics
     arxiv: https://arxiv.org/abs/2507.00278
+    doi: 
 
   - title: "Fast Meta-solvers for 3D Complex-shape Scatterers Using Neural Operators Trained on a Non-scattering Problem"
     authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadakis
