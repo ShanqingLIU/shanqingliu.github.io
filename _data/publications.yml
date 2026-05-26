@@ -1,4 +1,4 @@
-submitted:
+journal_submitted:
 
   - title: "A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems" 
     authors: Alan John Varghese, Shanqing Liu, Paula Chen, Yaochen Zhu, Jerome Darbon, George Em Karniadakis
@@ -24,10 +24,8 @@ submitted:
     authors: Marianne Akian, Shanqing Liu
     arxiv: https://arxiv.org/abs/2407.06969
 
-accepted:
 
-
-published: 
+journal_published: 
 
   - title: "Automatic Selection of the Best Neural Architecture for Time Series Forecasting via Multi-objective Optimization and Pareto Optimality Conditions"
     authors: Qianying Cao, Shanqing Liu, Alan John Varghese, Jerome Darbon, Michael Triantafyllou, George Em Karniadakis 
@@ -42,19 +40,19 @@ published:
     doi: 
 
   - title: "Fast Meta-solvers for 3D Complex-shape Scatterers Using Neural Operators Trained on a Non-scattering Problem"
-    authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadakis
+    authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadis
     conference: Computer Methods in Applied Mechanics and Engineering
     arxiv: https://arxiv.org/abs/2405.12380
     doi: https://doi.org/10.1016/j.cma.2025.118231
 
   - title: "A time-dependent Symplectic Network for Non-convex Path Planning Problems with Linear and Nonlinear Dynamics"
     authors: Zhen Zhang, Chenye Wang, Shanqing Liu, Jerome Darbon, George Karniadakis
-    conference: SIAM Journal on Scientific computing
+    conference: SIAM Journal on Scientific Computing
     arxiv: https://arxiv.org/abs/2408.03785
     doi: https://doi.org/10.1137/24M1682993
 
   - title: "Safe Physics-Informed Machine Learning for Optimal Predefined-Time Stabilization: A Lyapunov-based Approach"
-    authors: Nick-Marios T. Kokolakis, Zhen Zhang, Shanqing LIU, Kyriakos G. Vamvoudakis, Jerome Darbon, and George Karniadakis
+    authors: Nick-Marios T. Kokolakis, Zhen Zhang, Shanqing Liu, Kyriakos G. Vamvoudakis, Jerome Darbon, George Karniadakis
     conference: IEEE Transactions on Neural Networks and Learning Systems
     doi: https://ieeexplore.ieee.org/document/11015338
 
@@ -63,6 +61,9 @@ published:
     conference: SIAM Journal on Control and Optimization
     arxiv: https://arxiv.org/abs/2303.10705
     doi: https://epubs.siam.org/doi/full/10.1137/23M1563657
+
+
+conference_proceedings:
 
   - title: "An Adaptive Multi-level Max-plus Method for Deterministic Optimal Control Problems"
     authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
@@ -75,6 +76,7 @@ published:
     conference: MTNS 2022-25th International Symposium on Mathematical Theory of Networks and Systems
     hal: https://inria.hal.science/hal-03944192 
 
+
 phdthesis:
 
   - title: "Highway hierarchies for Hamilton-Jacobi-Bellman (HJB) PDEs"
@@ -82,5 +84,4 @@ phdthesis:
     location: CMAP, École Polytechnique
     hal: https://theses.hal.science/tel-04931347
     link: https://theses.fr/2023IPPAX107
-
 
