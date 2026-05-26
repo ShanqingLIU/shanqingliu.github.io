@@ -75,6 +75,14 @@ conference_proceedings:
     authors: Marianne Akian, Stéphane Gaubert, and Shanqing Liu
     conference: MTNS 2022-25th International Symposium on Mathematical Theory of Networks and Systems
     hal: https://inria.hal.science/hal-03944192 
+    
+  - title: "Pinns in Pde Constrained Optimal Control Problems: Direct vs Indirect Methods"
+    authors: Zhen Zhang, Shanqing Liu, Alessandro Alla, Jerome Darbon, George Em Karniadakis
+    arxiv: https://arxiv.org/pdf/2604.04920
+
+  - title: "Tropical Low-rank Approximation and Application to Optimal Control of N-body systems"
+    authors: Marianne Akian, Stephane Gaubert, Shanqing Liu, Yang Qi
+    arxiv: https://arxiv.org/pdf/2604.18785
 
 
 phdthesis:
