@@ -1,4 +1,4 @@
-journal_submitted:
+preprint:
 
   - title: "A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems" 
     authors: Alan John Varghese, Shanqing Liu, Paula Chen, Yaochen Zhu, Jerome Darbon, George Em Karniadakis
@@ -40,7 +40,7 @@ journal_published:
     doi: 
 
   - title: "Fast Meta-solvers for 3D Complex-shape Scatterers Using Neural Operators Trained on a Non-scattering Problem"
-    authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadis
+    authors: Youngkyu Lee, Shanqing Liu, Zongren Zou, Adar Kahana, Eli Turkel, Rishikesh Ranade, Jay Pathak, George Em Karniadakis
     conference: Computer Methods in Applied Mechanics and Engineering
     arxiv: https://arxiv.org/abs/2405.12380
     doi: https://doi.org/10.1016/j.cma.2025.118231
@@ -80,8 +80,7 @@ conference_proceedings:
 phdthesis:
 
   - title: "Highway hierarchies for Hamilton-Jacobi-Bellman (HJB) PDEs"
-    authors: Supervised by Marianne Akian (co-director of thesis) and Stéphane Gaubert (co-director of thesis)
+    authors: Supervised by Marianne Akian, co-director of thesis, and Stéphane Gaubert, co-director of thesis
     location: CMAP, École Polytechnique
     hal: https://theses.hal.science/tel-04931347
     link: https://theses.fr/2023IPPAX107
-
